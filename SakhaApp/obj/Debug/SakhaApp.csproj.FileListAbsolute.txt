@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\DedyukinAndrey21-4\SakhaApp\bin\Debug\SakhaApp.exe.config
+C:\Users\Admin\Desktop\DedyukinAndrey21-4\SakhaApp\bin\Debug\SakhaApp.exe
+C:\Users\Admin\Desktop\DedyukinAndrey21-4\SakhaApp\bin\Debug\SakhaApp.pdb
+C:\Users\Admin\Desktop\DedyukinAndrey21-4\SakhaApp\obj\Debug\SakhaApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DedyukinAndrey21-4\SakhaApp\obj\Debug\SakhaApp.ProjectUnknown.resources
+C:\Users\Admin\Desktop\DedyukinAndrey21-4\SakhaApp\obj\Debug\SakhaApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\DedyukinAndrey21-4\SakhaApp\obj\Debug\SakhaApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DedyukinAndrey21-4\SakhaApp\obj\Debug\SakhaApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DedyukinAndrey21-4\SakhaApp\obj\Debug\SakhaApp.exe
+C:\Users\Admin\Desktop\DedyukinAndrey21-4\SakhaApp\obj\Debug\SakhaApp.pdb
